@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonystark4214
 - 👀 I’m interested in Web Development,AI & ML 
-- 🌱 I’m currently learning Web Development
+- 🌱 Working as a Full Stack Developer using .Net Core and Angular
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me Insta=tony_stark_4214,Snap=tonystark_4214 & whatsapp=7607856725
 
